@@ -1,0 +1,8 @@
+module.exports = {
+    FB_PAGE_TOKEN: 'EAAB1P1unyrQBAJRiwZB5iK6JJZCSQ5osUpPP3Wu1ZCzqxWZBEL230Kp1nzbCXish0aux0Mgld05q5I6WJt4HhrCYkgLeFlCtLUs5r3g22qbutgWDE1F8XAio5m6DXSHg3fzywA3UnJJExbOc1UwvaAgnXmOMc2Am5tAf9tq9x6QPoIJ97vL2',
+    FB_VERIFY_TOKEN: 'testingbotverifytoken',
+    API_AI_CLIENT_ACCESS_TOKEN: '1ae4199637f14569a96928aa4671d20c',
+    FB_APP_SECRET: '71f82de5f83df0ea0c3cb341382a2f5d',
+    SERVER_URL: " https://smart-chat-bot.herokuapp.com/",
+    WEATHER_API_KEY: "94051e2462638918751a22ca1e08ee9e"
+};
